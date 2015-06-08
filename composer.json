@@ -1,0 +1,17 @@
+{
+    "name": "lschricke/silex-strict-route-collection-service-provider",
+    "description": "",
+    "require": {
+        "silex/silex": "~1.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lschricke",
+            "email": "lucas.schricke@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"Lschricke\\SymfonyStrictRouteCollection\\Silex\\": "src/"}
+    }
+}

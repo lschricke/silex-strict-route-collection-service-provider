@@ -15,6 +15,7 @@ class StrictRouteCollectionServiceProvider implements ServiceProviderInterface
      */
     public function register(Application $app)
     {
+        $app['routes_class'] = 'Lschricke\\SymfonyStrictRouteCollection\\StrictRouteCollection';
     }
 
     /**

@@ -2,7 +2,7 @@
     "name": "lschricke/silex-strict-route-collection-service-provider",
     "description": "",
     "require": {
-        "silex/silex": "~1.3"
+        "silex/silex": "2.0.x-dev"
     },
     "license": "MIT",
     "authors": [
